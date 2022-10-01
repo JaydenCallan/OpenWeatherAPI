@@ -1,0 +1,17 @@
+C:\Users\jqcal\source\repos\OpenWeather\OpenWeather\bin\Debug\net6.0\OpenWeather.exe
+C:\Users\jqcal\source\repos\OpenWeather\OpenWeather\bin\Debug\net6.0\OpenWeather.deps.json
+C:\Users\jqcal\source\repos\OpenWeather\OpenWeather\bin\Debug\net6.0\OpenWeather.runtimeconfig.json
+C:\Users\jqcal\source\repos\OpenWeather\OpenWeather\bin\Debug\net6.0\OpenWeather.dll
+C:\Users\jqcal\source\repos\OpenWeather\OpenWeather\bin\Debug\net6.0\OpenWeather.pdb
+C:\Users\jqcal\source\repos\OpenWeather\OpenWeather\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\jqcal\source\repos\OpenWeather\OpenWeather\obj\Debug\net6.0\OpenWeather.csproj.AssemblyReference.cache
+C:\Users\jqcal\source\repos\OpenWeather\OpenWeather\obj\Debug\net6.0\OpenWeather.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jqcal\source\repos\OpenWeather\OpenWeather\obj\Debug\net6.0\OpenWeather.AssemblyInfoInputs.cache
+C:\Users\jqcal\source\repos\OpenWeather\OpenWeather\obj\Debug\net6.0\OpenWeather.AssemblyInfo.cs
+C:\Users\jqcal\source\repos\OpenWeather\OpenWeather\obj\Debug\net6.0\OpenWeather.csproj.CoreCompileInputs.cache
+C:\Users\jqcal\source\repos\OpenWeather\OpenWeather\obj\Debug\net6.0\OpenWeather.csproj.CopyComplete
+C:\Users\jqcal\source\repos\OpenWeather\OpenWeather\obj\Debug\net6.0\OpenWeather.dll
+C:\Users\jqcal\source\repos\OpenWeather\OpenWeather\obj\Debug\net6.0\refint\OpenWeather.dll
+C:\Users\jqcal\source\repos\OpenWeather\OpenWeather\obj\Debug\net6.0\OpenWeather.pdb
+C:\Users\jqcal\source\repos\OpenWeather\OpenWeather\obj\Debug\net6.0\OpenWeather.genruntimeconfig.cache
+C:\Users\jqcal\source\repos\OpenWeather\OpenWeather\obj\Debug\net6.0\ref\OpenWeather.dll
